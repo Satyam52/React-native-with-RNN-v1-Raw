@@ -1,0 +1,4 @@
+#Wed Jul 24 20:40:08 IST 2019
+base.0=C\:\\Users\\gsaty\\Desktop\\Android-Apps\\Awesome-places\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

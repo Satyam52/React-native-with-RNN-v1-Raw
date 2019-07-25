@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-navigation] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\cecd862f4e74d4dc6b93a9b11a5feafd\AndroidManifest.xml:2:1-13:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\129cccfe31cd1d5ad00560294efa24bf\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\48e5fb808078a857c8469564c976663b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\1ea2880d62cd1a05a5cae1856f1284a5\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f42ce2ea3edbb588ddad59cfa7d8414d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a65f0f6c23820dd812a1b9f9a825ae9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ed9a35b026663b9bf0bf552b0526d9cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6e8dc289c11c7879472fea3d6ddffc74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\de13cdb119ae16904bf09b832dfbdcbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8a1f491d2bef9c708fed84b23b23614c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\318ea25503afebd176a46c0f6003607d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\99eb1db7a662e33df9e5426d5210c37f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\3e39ff613eb0215d2bb6b7356f1c832a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\265abee1e8ee95ea3e48a404eb0fa2c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\759c0b4660859a6e224ff1b11fa68a86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\bed8b5e3b107021176f8c63c20f294c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b9e35d59ba536d5e9e90655f060afa61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3837484caaca853ad74ac319c2a74b35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6992c523a768294c52be89105c2d3e61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\839d37bf0db9047f577c5a6f5c3bed69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7acb73b74adb6024af7285c2c602c7e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\99b4f240d1625709c7ae7503fd3e9ef5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d980ec12f35903f90f7f89b7a85f490c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f669a7c6e0fceb34134a8e2840fcaf9a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\70aa3728e9bc8dfd08213675427528fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a902e6325d9b038362f8b160ebd2e224\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c671e46f066e63e1324aa4a2f05441db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\02e4321367cc891af7e29d69cbae8824\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2940ea1a4a416d89bd44aaf03424be4f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1f87ff52a58794f99379075f8bff4b7a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\62d7b2549630075032ac63309d9d6d21\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ca197b385dae85be699feeefcedbbdc6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f47adc76349e906052aac102ecbd6141\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\505302d39bb961508a45235bbb25f466\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\d9bf9e586fca32ad35731998533eac55\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\ba5312d3d7e8ce4ec8e77c90a8b2caaf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\fac6a60941f0a7dd565e6714f1f2b06d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\a33bbb262294b744fe5b912fa0592788\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\0f09c6e6bae430af6221c66a2cbb3af7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\518f214d3904991bbfa94303ffb5d5e3\AndroidManifest.xml:2:1-13:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\7427bc267391bcdc7e73f0a42c7c7c0d\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\b2878178bd6cb97ecc489b0657415805\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-navigation] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\cecd862f4e74d4dc6b93a9b11a5feafd\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\cecd862f4e74d4dc6b93a9b11a5feafd\AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\129cccfe31cd1d5ad00560294efa24bf\AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\129cccfe31cd1d5ad00560294efa24bf\AndroidManifest.xml:11:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\1ea2880d62cd1a05a5cae1856f1284a5\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\1ea2880d62cd1a05a5cae1856f1284a5\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d980ec12f35903f90f7f89b7a85f490c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d980ec12f35903f90f7f89b7a85f490c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f669a7c6e0fceb34134a8e2840fcaf9a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f669a7c6e0fceb34134a8e2840fcaf9a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\518f214d3904991bbfa94303ffb5d5e3\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\518f214d3904991bbfa94303ffb5d5e3\AndroidManifest.xml:11:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\7427bc267391bcdc7e73f0a42c7c7c0d\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\7427bc267391bcdc7e73f0a42c7c7c0d\AndroidManifest.xml:12:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d980ec12f35903f90f7f89b7a85f490c\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.rncourse.MainActivity
+ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:23:7-84
+MERGED from [:react-native-navigation] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:react-native-navigation] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\cecd862f4e74d4dc6b93a9b11a5feafd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\cecd862f4e74d4dc6b93a9b11a5feafd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\129cccfe31cd1d5ad00560294efa24bf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\129cccfe31cd1d5ad00560294efa24bf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\48e5fb808078a857c8469564c976663b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\48e5fb808078a857c8469564c976663b\AndroidManifest.xml:20:5-44
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\1ea2880d62cd1a05a5cae1856f1284a5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\1ea2880d62cd1a05a5cae1856f1284a5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f42ce2ea3edbb588ddad59cfa7d8414d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f42ce2ea3edbb588ddad59cfa7d8414d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a65f0f6c23820dd812a1b9f9a825ae9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a65f0f6c23820dd812a1b9f9a825ae9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ed9a35b026663b9bf0bf552b0526d9cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ed9a35b026663b9bf0bf552b0526d9cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6e8dc289c11c7879472fea3d6ddffc74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6e8dc289c11c7879472fea3d6ddffc74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\de13cdb119ae16904bf09b832dfbdcbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\de13cdb119ae16904bf09b832dfbdcbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8a1f491d2bef9c708fed84b23b23614c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8a1f491d2bef9c708fed84b23b23614c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\318ea25503afebd176a46c0f6003607d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\318ea25503afebd176a46c0f6003607d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\99eb1db7a662e33df9e5426d5210c37f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\99eb1db7a662e33df9e5426d5210c37f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\3e39ff613eb0215d2bb6b7356f1c832a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\3e39ff613eb0215d2bb6b7356f1c832a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\265abee1e8ee95ea3e48a404eb0fa2c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\265abee1e8ee95ea3e48a404eb0fa2c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\759c0b4660859a6e224ff1b11fa68a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\759c0b4660859a6e224ff1b11fa68a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\bed8b5e3b107021176f8c63c20f294c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\bed8b5e3b107021176f8c63c20f294c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b9e35d59ba536d5e9e90655f060afa61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b9e35d59ba536d5e9e90655f060afa61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3837484caaca853ad74ac319c2a74b35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3837484caaca853ad74ac319c2a74b35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6992c523a768294c52be89105c2d3e61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6992c523a768294c52be89105c2d3e61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\839d37bf0db9047f577c5a6f5c3bed69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\839d37bf0db9047f577c5a6f5c3bed69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7acb73b74adb6024af7285c2c602c7e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7acb73b74adb6024af7285c2c602c7e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\99b4f240d1625709c7ae7503fd3e9ef5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\99b4f240d1625709c7ae7503fd3e9ef5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d980ec12f35903f90f7f89b7a85f490c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d980ec12f35903f90f7f89b7a85f490c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f669a7c6e0fceb34134a8e2840fcaf9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f669a7c6e0fceb34134a8e2840fcaf9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\70aa3728e9bc8dfd08213675427528fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\70aa3728e9bc8dfd08213675427528fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a902e6325d9b038362f8b160ebd2e224\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a902e6325d9b038362f8b160ebd2e224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c671e46f066e63e1324aa4a2f05441db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c671e46f066e63e1324aa4a2f05441db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\02e4321367cc891af7e29d69cbae8824\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\02e4321367cc891af7e29d69cbae8824\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2940ea1a4a416d89bd44aaf03424be4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2940ea1a4a416d89bd44aaf03424be4f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1f87ff52a58794f99379075f8bff4b7a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1f87ff52a58794f99379075f8bff4b7a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\62d7b2549630075032ac63309d9d6d21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\62d7b2549630075032ac63309d9d6d21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ca197b385dae85be699feeefcedbbdc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ca197b385dae85be699feeefcedbbdc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f47adc76349e906052aac102ecbd6141\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f47adc76349e906052aac102ecbd6141\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\505302d39bb961508a45235bbb25f466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\505302d39bb961508a45235bbb25f466\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\d9bf9e586fca32ad35731998533eac55\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\d9bf9e586fca32ad35731998533eac55\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\ba5312d3d7e8ce4ec8e77c90a8b2caaf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\ba5312d3d7e8ce4ec8e77c90a8b2caaf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\fac6a60941f0a7dd565e6714f1f2b06d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\fac6a60941f0a7dd565e6714f1f2b06d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\a33bbb262294b744fe5b912fa0592788\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\a33bbb262294b744fe5b912fa0592788\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\0f09c6e6bae430af6221c66a2cbb3af7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\0f09c6e6bae430af6221c66a2cbb3af7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\518f214d3904991bbfa94303ffb5d5e3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\518f214d3904991bbfa94303ffb5d5e3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\7427bc267391bcdc7e73f0a42c7c7c0d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\7427bc267391bcdc7e73f0a42c7c7c0d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\b2878178bd6cb97ecc489b0657415805\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\gsaty\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\b2878178bd6cb97ecc489b0657415805\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\android\app\src\debug\AndroidManifest.xml:5:22-75
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [:react-native-navigation] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [:react-native-navigation] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [:react-native-navigation] C:\Users\gsaty\Desktop\Android-Apps\Awesome-places\node_modules\react-native-navigation\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-84
